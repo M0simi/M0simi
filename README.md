@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm @M0simi
 
 🎯 Passionate about **Cybersecurity**, hacking tools, and breaking things (then fixing them better 😉).  
-💻 Currently learning **C** and **Python** as part of my journey to master low-level programming and scripting.  
+💻 Currently learning **C** and **Python** as part of my journey to master low/higher-level programming and scripting.  
 🔐 Security enthusiast aiming to build useful tools and explore system internals.  
 
 ## 🔧 Tech Stack
